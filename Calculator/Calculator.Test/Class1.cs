@@ -8,5 +8,8 @@ namespace Calculator.Test
 {
     public class Class1
     {
+        string name = "James";
+            int age = 23;
+            Console.WriteLine("{0} is {1} years old", name, age);
     }
 }
